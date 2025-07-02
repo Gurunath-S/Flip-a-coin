@@ -5,8 +5,6 @@ A simple and fun Coin Flip Game built using **HTML**, **CSS**, and **JavaScript*
 ## 🚀 Live Demo
 
 👉 [**View Live Demo**](https://your-username.github.io/coin-flip-game/)  
-_(Replace this with your actual GitHub Pages / Netlify / Vercel URL)_
-
 
 
 ## 🖼️ Preview
