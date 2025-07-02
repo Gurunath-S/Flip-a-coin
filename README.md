@@ -4,7 +4,7 @@ A simple and fun Coin Flip Game built using **HTML**, **CSS**, and **JavaScript*
 
 ## 🚀 Live Demo
 
-👉 [**View Live Demo**](flipthecoin-prj.vercel.app)  
+👉 [**View Live Demo**](flipacoin-prj.vercel.app)  
 
 
 ## 🖼️ Preview
